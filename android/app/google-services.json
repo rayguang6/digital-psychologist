@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "980762086588",
+    "project_id": "digital-psychology",
+    "storage_bucket": "digital-psychology.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980762086588:android:d7f167a35107fa0f9a94b9",
+        "android_client_info": {
+          "package_name": "xyz.digitalpsychologist.digitalpsychology"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "980762086588-dm1ta085arseftcfcuukn5unifmecgf7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4KsGPAj8eUStqzluxfFlv-zWwloor6_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "980762086588-dm1ta085arseftcfcuukn5unifmecgf7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
